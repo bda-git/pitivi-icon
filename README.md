@@ -1,9 +1,13 @@
 # pitivi-icon
-Pitivi icon created following the Human Interface Guidelines. This includes:
+Pitivi icon created following the Human Interface Guidelines.
+
+![alt text](https://github.com/bdac-git/pitivi-icon/blob/main/Pitivi-icon.png?raw=true)
+
+This includes:
 
 * Application icon on template
 * Standard application icon
 * Develop application icon
 * Monochrome symbolic icon
 
-![alt text](https://github.com/bdac-git/pitivi-icon/blob/main/Pitivi-icon.png?raw=true)
+![alt text](https://github.com/bdac-git/pitivi-icon/blob/main/Pitivi-template.png?raw=true)
