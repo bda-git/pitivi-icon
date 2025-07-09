@@ -6,4 +6,4 @@ Pitivi icon created following the Human Interface Guidelines. This includes:
 * Develop application icon
 * Monochrome symbolic icon
 
-![alt text](https://github.com/bdac-git/pitivi-icon/blob/main/pitivi-icon.png?raw=true)
+![alt text](https://github.com/bdac-git/Pitivi-icon/blob/main/pitivi-icon.png?raw=true)
